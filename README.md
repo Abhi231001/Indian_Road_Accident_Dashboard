@@ -107,3 +107,8 @@ Peak-hour accidents : Dynamic traffic signal optimization and police deployment
 Weather-related accident : Real-time weather alerts and variable speed limits
 
 Severe highway accident : Speed cameras, better lighting, and emergency response stations
+
+# Dataset
+
+https://www.kaggle.com/datasets/shivsharantripathi/indian-accident-dataset-5lakh
+
